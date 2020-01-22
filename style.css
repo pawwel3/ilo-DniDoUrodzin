@@ -1,0 +1,11 @@
+body{
+    background-image: url(ur.jpg);
+    background-size: 80%;
+
+}
+.zegar{
+    color: rgb(5, 238, 5);
+    text-align: center;
+    margin-top: 50vh;
+
+}
